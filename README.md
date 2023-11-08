@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @keiwuley
-- 👀 I’m interested in app automation/ chatGPT
+- 👀 I’m interested in Network Engineering
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...online course creation
 - - 📫 How to reach me ...workwithannan@gmail.com
